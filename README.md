@@ -1,36 +1,47 @@
 <h1 align="center">👋 Hi, I'm Jonathan Ng</h1>
 <p align="center">
-  https://www.microsoft.com
-    https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white
+  <a href="https://www.microsoft.com">
+    <img src="https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft" />
   </a>
-  https://img.shields.io/badge/Role-Principal%20CSAM-blueviolet?style=for-the-badge
-  https://img.shields.io/badge/Location-Singapore-red?style=for-the-badge
-</p>
-
-<p align="center">
-  https://www.linkedin.com/https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white</a>
-  mailto:your-email@example.comhttps://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white</a>
-  https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=0E75B6
-  https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername&left_text=Visitors&style=for-the-badge
+  <img src="https://img.shields.io/badge/Role-Principal%20CSAM-blueviolet?style=for-the-badge" alt="Role" />
+  <img src="https://img.shields.io/badge/Location-Singapore-red?style=for-the-badge" alt="Location" />
 </p>
 
 ---
 
 ### 🌟 About Me
-- Principal **Customer Success Account Manager** at **Microsoft Singapore**  
-- Focused on **working on problems (technical or otherwise).**
-- I build clear pathways from **engineering problems → business outcomes**  
+
+<div align="center">
+
+*Bridging the gap between complex technical challenges and strategic business outcomes*
+
+</div>
+
+<br>
+
+🔍 **What I Do:**
+- 🛠️ **Problem Solver** — I thrive on tackling complex technical and business challenges
+- 🌉 **Bridge Builder** — Creating clear pathways from engineering problems to business outcomes  
+- 🤝 **Strategic Partner** — Collaborating with engineering teams and public sector partners
+- 💡 **Innovation Catalyst** — Driving solutions in AI platforms, cyber readiness, and cloud modernization
+
+📍 **Based in:** Singapore 🇸🇬  
+💼 **Mission:** Transforming technical complexity into business value
 
 ---
 
 ### 🔧 Tech Stack
 <p>
-  https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white
-  https://img.shields.io/badge/Microsoft%20365-ED333B?style=for-the-badge&logo=microsoft&logoColor=white
-  https://img.shields.io/badge/Power%20Platform-742774?style=for-the-badge&logo=powerapps&logoColor=white
-  https://img.shields.io/badge/Azure%20AI-0062AD?style=for-the-badge&logo=azurepipelines&logoColor=white
-  https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-  https://img.shields.io/badge/PowerShell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP" />
+  <img src="https://img.shields.io/badge/Power%20Platform-742774?style=for-the-badge&logo=powerapps&logoColor=white" alt="Power Platform" />
+  <img src="https://img.shields.io/badge/Azure%20AI-0062AD?style=for-the-badge&logo=azurepipelines&logoColor=white" alt="Azure AI" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PowerShell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
+  <img src="https://img.shields.io/badge/Objective--C-3A95E3?style=for-the-badge&logo=apple&logoColor=white" alt="Objective-C" />
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
 </p>
 
 ---
@@ -42,22 +53,8 @@
 
 ---
 
-### 📈 GitHub Stats
-<p>
-  https://github-readme-stats.vercel.app/api?username=voyager163&show_icons=true&theme=radical&rank_icon=github
-  https://github-readme-stats.vercel.app/api/top-langs/?username=voyager163&layout=compact&theme=radical
-</p>
-
-<!-- Optional streak stats; comment out if you don't want it -->
-<p>
-  https://streak-stats.demolab.com?user=voyager163&theme=radical
-</p>
-
-
----
-
-### 🤝 Let’s Connect
+### 🤝 Let's Connect
 I regularly collaborate with engineering teams and public sector partners to ship outcomes.  
-If you’re working on **AI platforms, cyber readiness, or cloud modernization**, let’s chat.
+If you're working on **AI platforms, cyber readiness, or cloud modernization**, let's chat.
 
-- 💼 LinkedIn: https://www.linkedin.com/in/jonathanngjiayong</a>  
+- 💼 LinkedIn: <a href="https://www.linkedin.com/in/jonathanngjiayong">https://www.linkedin.com/in/jonathanngjiayong</a>
