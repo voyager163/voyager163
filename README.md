@@ -46,13 +46,6 @@
 
 ---
 
-### 🚀 Current Projects
-- **Nexus** — Google Maps–centric tactical dashboard UI  
-- **SafeQR** — Safe QR Code Scanner 
-- **M365 Service Health** — M365 Health Service Dashboard + ServiceNow integration  
-
----
-
 ### 🤝 Let's Connect
 I regularly collaborate with engineering teams and public sector partners to ship outcomes.  
 If you're working on **AI platforms, cyber readiness, or cloud modernization**, let's chat.
